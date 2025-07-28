@@ -9,7 +9,7 @@ This project is a clone of Amazon's UI which involves cloning its landing page i
 - 📱 Responsive layout for desktop, tablet, and mobile
 - 🎨 Styled using pure CSS (no frameworks)
 
-##Technologies used:
+## Technologies used:
 -HTML5
 -CSS3
   
@@ -27,7 +27,7 @@ cd amazon-clone
 open index.html
 ```
 ## 🎯 Goals of the Project
--Practice semantic HTML layout
--Recreate a real-world UI using CSS
--Understand responsive design techniques
--Get hands-on with modern CSS properties (Flexbox, Grid, etc.)
+- Practice semantic HTML layout
+- Recreate a real-world UI using CSS
+- Understand responsive design techniques
+- Get hands-on with modern CSS properties (Flexbox, Grid, etc.)
