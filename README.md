@@ -2,7 +2,7 @@
 
 This project is a clone of Amazon's UI which involves cloning its landing page including all its relevant features with static functionality.It focuses on layout, responsive design, and styling to mimic the appearance of the original Amazon site.
 
-##Features
+## Features
 - 🔍 Search bar similar to Amazon's UI
 - 🧾 Navigation bar with dropdowns
 - 🛍️ Product cards with hover effects
@@ -26,7 +26,7 @@ git clone https://github.com/sarthak-vyas-1980/amazonClone.git
 cd amazon-clone
 open index.html
 ```
-##🎯 Goals of the Project
+## 🎯 Goals of the Project
 -Practice semantic HTML layout
 -Recreate a real-world UI using CSS
 -Understand responsive design techniques
