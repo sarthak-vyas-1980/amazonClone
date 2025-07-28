@@ -10,8 +10,8 @@ This project is a clone of Amazon's UI which involves cloning its landing page i
 - 🎨 Styled using pure CSS (no frameworks)
 
 ## Technologies used:
--HTML5
--CSS3
+- HTML5
+- CSS3
   
 ## 💻 How to Use
 
