@@ -1,4 +1,4 @@
-# amazonClone
+# Amazon Clone
 
 This project is a clone of Amazon's UI which involves cloning its landing page including all its relevant features with static functionality.It focuses on layout, responsive design, and styling to mimic the appearance of the original Amazon site.
 
