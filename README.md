@@ -23,7 +23,7 @@ git clone https://github.com/sarthak-vyas-1980/amazonClone.git
 2. Open the project in your browser:
 
 ```bash
-cd amazon-clone
+cd amazonClone
 open index.html
 ```
 ## 🎯 Goals of the Project
